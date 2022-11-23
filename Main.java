@@ -21,12 +21,7 @@ class inventory {
         System.out.println("Enter the item details -> ");
         System.out.print("\nItem code :");
         code = sc.nextInt();
-        // System.out.print("\nItem name :");
-        // name = sc.next();
-        // System.out.print("\nItem rate :");
-        // rate = sc.nextDouble();
-        // System.out.print("\nItem quentity :");
-        // qty = sc.nextInt();
+
 
         System.out.println();
         try {
